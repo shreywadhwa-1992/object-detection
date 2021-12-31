@@ -1,3 +1,3 @@
 # object-detection
 eye for a blind
-starsting of the projec
+starting of the project
